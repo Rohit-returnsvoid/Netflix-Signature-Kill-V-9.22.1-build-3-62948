@@ -30,7 +30,7 @@ No automated tools, no hooking frameworks — **pure manual reverse engineering*
 com.netflix.mediaclient.LoaderModule$provideLoaderInit$1$onInit$1
 
 - **Tutorial:** [Watch here](https://streamable.com/q5b85o) *(Use USA VPN if video won’t load)*
-- **Modder:** `@criticalmodder` *(Telegram)*
+- **Modder:** `` *(Telegram)*
 
 ---
 
